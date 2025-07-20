@@ -24,6 +24,9 @@ This project demonstrates **foundational Python skills** including functions, co
 ---
 
 ## ▶️ How to Run
-1. **Clone the repository** or download the script:
+1. **Clone the repositoryor download the script:**
    ```bash
    git clone https://github.com/your-username/Simple-Unit-Conversion.git
+2. **Navigate to the project folder:**
+   ```bash
+   cd simple-unit-conversion
