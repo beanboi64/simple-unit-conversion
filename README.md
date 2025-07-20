@@ -57,3 +57,24 @@ Please enter a value: 25
 
 Conversion Success!
 The converted temperature is 77°F
+```
+---
+
+## ⚠️ Current Limitations & Future Plans
+
+- Known Issue: The program will crash if you enter non-numeric input (e.g., "abc" instead of 25).
+- Planned Improvement: Add input validation and error handling using try-except blocks for a smoother experience.
+- Future Ideas:
+   - Add more unit conversions (time, speed, etc.).
+   - Implement a graphical user interface (GUI).
+
+---
+
+## 🧠 Learning Note
+
+This project is part of my Python learning journey. It demonstrates my understanding of:
+
+- Variables, data types, and user input
+- Functions with parameters and return values
+- Conditional statements (if, elif, else)
+- Basic program structure and modularity
