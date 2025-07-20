@@ -33,3 +33,4 @@ This project demonstrates **foundational Python skills** including functions, co
 3. **Run the script:**
    ```bash
    python suc.py
+
