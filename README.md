@@ -22,3 +22,8 @@ This project demonstrates **foundational Python skills** including functions, co
 - ✅ **Modular design** using functions for each conversion
 
 ---
+
+## ▶️ How to Run
+1. **Clone the repository** or download the script:
+   ```bash
+   git clone https://github.com/your-username/Simple-Unit-Conversion.git
