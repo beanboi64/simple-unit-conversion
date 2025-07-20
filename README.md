@@ -30,3 +30,6 @@ This project demonstrates **foundational Python skills** including functions, co
 2. **Navigate to the project folder:**
    ```bash
    cd simple-unit-conversion
+3. **Run the script:**
+   ```bash
+   python suc.py
