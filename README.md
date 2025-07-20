@@ -75,6 +75,6 @@ The converted temperature is 77°F
 This project is part of my Python learning journey. It demonstrates my understanding of:
 
 - Variables, data types, and user input
-- Functions with parameters and return values
+- Functions with return values
 - Conditional statements (if, elif, else)
 - Basic program structure and modularity
