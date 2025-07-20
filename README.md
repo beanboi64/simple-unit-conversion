@@ -11,3 +11,14 @@ A beginner-friendly **Python command-line tool** for converting values between c
 This project demonstrates **foundational Python skills** including functions, conditionals, and modular programming, created as part of my learning journey.
 
 ---
+
+## ✨ Features
+- ✅ Convert **Celsius ↔ Fahrenheit**
+- ✅ Convert **Kilometers ↔ Miles**
+- ✅ Convert **Kilograms ↔ Pounds**
+- ✅ Convert **Meters ↔ Feet**
+- ✅ Convert **Liters ↔ Gallons**
+- ✅ **Menu-driven interface** for easy navigation
+- ✅ **Modular design** using functions for each conversion
+
+---
